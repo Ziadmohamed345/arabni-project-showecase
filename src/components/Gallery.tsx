@@ -6,14 +6,14 @@ import gallery3 from "@/assets/gallery-3.jpeg";
 
 const images = [
   {
-    src: gallery2,
-    alt: "Team presenting milestones",
-    caption: "Sharing our journey and key milestones",
-  },
-  {
     src: gallery1,
     alt: "Arabni pitch presentation on urban mobility",
     caption: "Presenting the future of urban mobility at Tatweer Misr competition",
+  },
+  {
+    src: gallery2,
+    alt: "Team presenting milestones",
+    caption: "Sharing our journey and key milestones",
   },
   {
     src: gallery3,
