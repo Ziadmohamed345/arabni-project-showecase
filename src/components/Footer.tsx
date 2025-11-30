@@ -25,12 +25,9 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/10 my-8" />
         
         {/* Bottom */}
-        <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm">
+        <div className="text-center sm:text-left text-sm">
           <p className="text-primary-foreground/50">
             © {new Date().getFullYear()} Arabni. All rights reserved.
-          </p>
-          <p className="text-primary-foreground/50">
-            Enhancing Urban Mobility
           </p>
         </div>
       </div>
