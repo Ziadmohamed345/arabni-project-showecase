@@ -20,25 +20,6 @@ const CTA = () => {
               Join us on our mission to revolutionize transportation in Egypt. 
               Whether you're an investor, partner, or potential user, we'd love to connect with you.
             </p>
-            
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button 
-                variant="hero" 
-                size="xl"
-                onClick={() => window.open("mailto:contact@arabni.com", "_blank")}
-              >
-                <Mail className="w-5 h-5" />
-                Contact Us
-              </Button>
-              <Button 
-                variant="hero-outline" 
-                size="xl"
-                onClick={() => window.open("https://arabni.com", "_blank")}
-              >
-                <ExternalLink className="w-5 h-5" />
-                Visit Website
-              </Button>
-            </div>
           </div>
         </div>
       </div>
