@@ -7,8 +7,8 @@ import gallery3 from "@/assets/gallery-3.jpeg";
 const images = [
   {
     src: gallery1,
-    alt: "Arabni pitch presentation on urban mobility",
-    caption: "Presenting the future of urban mobility at Tatweer Misr competition",
+    alt: "Graduation project discussion milestone",
+    caption: "Celebrating our graduation project discussion milestone",
   },
   {
     src: gallery2,
@@ -17,8 +17,8 @@ const images = [
   },
   {
     src: gallery3,
-    alt: "Tatweer Misr Competition pitch",
-    caption: "Pitching at the Tatweer Misr Innovation Competition",
+    alt: "Graduation project business discussion",
+    caption: "Presenting the business aspect during our graduation project discussion",
   },
 ];
 
