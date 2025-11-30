@@ -8,7 +8,7 @@ const images = [
   {
     src: gallery1,
     alt: "Graduation project discussion milestone",
-    caption: "Celebrating our graduation project discussion milestone",
+    caption: "Presenting our project at the final graduation project discussion",
   },
   {
     src: gallery2,
