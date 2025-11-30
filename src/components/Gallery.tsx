@@ -7,8 +7,8 @@ import gallery3 from "@/assets/gallery-3.jpeg";
 const images = [
   {
     src: gallery1,
-    alt: "Arabni presenting at NilePreneurs",
-    caption: "Presenting our milestones at NilePreneurs training program",
+    alt: "Arabni pitch presentation on urban mobility",
+    caption: "Presenting the future of urban mobility at Tatweer Misr competition",
   },
   {
     src: gallery2,
