@@ -44,7 +44,7 @@ const Hero = () => {
         
         {/* Headline */}
         <h1 className="opacity-0 animate-fade-up animate-delay-200 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 leading-tight">
-          Arabni Project
+          Arabni Startup
           <span className="block text-gradient-coral">Top 10 in Tatweer Misr</span>
         </h1>
         

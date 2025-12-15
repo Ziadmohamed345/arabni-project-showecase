@@ -16,7 +16,7 @@ const Footer = () => {
               Proudly supported by
             </p>
             <p className="text-primary-foreground/80 font-medium">
-              Nile University • Nile Preneurs •Tatweer Misr
+              Tatweer Misr • NilePreneurs • Central Bank of Egypt
             </p>
           </div>
         </div>
