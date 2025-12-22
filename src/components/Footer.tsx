@@ -9,21 +9,21 @@ const Footer = () => {
           <div className="flex items-center gap-3">
             <img src={logo} alt="Arabni" className="h-10" />
           </div>
-          
+
           {/* Partners */}
           <div className="text-center md:text-right">
             <p className="text-primary-foreground/60 text-sm mb-2">
               Proudly supported by
             </p>
             <p className="text-primary-foreground/80 font-medium">
-              Tatweer Misr • NilePreneurs • Central Bank of Egypt
+              Nile University • NilePreneurs • Tatweer Misr
             </p>
           </div>
         </div>
-        
+
         {/* Divider */}
         <div className="border-t border-primary-foreground/10 my-8" />
-        
+
         {/* Bottom */}
         <div className="text-center sm:text-left text-sm">
           <p className="text-primary-foreground/50">
